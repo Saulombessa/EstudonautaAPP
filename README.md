@@ -15,6 +15,7 @@ O aplicativo foi elaborado para treinar recursos do programa ANDROID STUDIO, dur
 - Rolagens horizontais e verticais 
 
 
+
 <img src="https://user-images.githubusercontent.com/114509744/208584974-c1dd66f0-b6c3-4028-9bdc-2f848ed12b56.png" width="400" height="650" />  <img src="https://user-images.githubusercontent.com/114509744/208584978-8c14a0bb-5e10-49e5-b8ca-cc86fe587380.png" width="400" height="650" />  <img src="https://user-images.githubusercontent.com/114509744/208584984-f5550c00-8985-4076-b0be-077ae564cfeb.png" width="400" height="650" />
 
 <img src="https://user-images.githubusercontent.com/114509744/208584988-b9d48a13-bc9e-4638-97c0-5699620e3c31.png" width="650" height="400" />
