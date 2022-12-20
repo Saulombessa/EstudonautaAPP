@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Estudonauta</string>
+    <string name="strDireitos">Direitos reservados para ESTUDONAUTA.COM</string>
+    <string name="strEquipe">Equipe</string>
+    <string name="strCursos">CURSOS</string>
+    <string name="strMidia">MÍDIA</string>
+    <string name="strVoltar">VOLTAR</string>
+    <string name="strEquipeTitulo">EQUIPE ESTUDONAUTA</string>
+    <string name="strEquipeDescricao">
+        \tLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        \n\n\tDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        \n\n\tExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+        mollit anim id est laborum.</string>
+    <string name="strEquipeCaynan">Caynan  Scremin (Edição de cortes)</string>
+    <string name="strEquipeGustavo">Gustavo Guanabara (Professor)</string>
+    <string name="strEquipeItalo">Italo Alves (Edição e cortes)</string>
+    <string name="strEquipeMichael">Michael Guanabara (Finalização)</string>
+    <string name="strEquipePriscila">Priscila Marinho (Programadora)</string>
+    <string name="strEquipeRamon">Ramon Felinto (Design)</string>
+    <string name="strEquipeVera">Vera Machado (Tutoria)</string>
+    <string name="strEquipeYgor">Ygor Escure (Finalização)</string>
+    <string name="strCursosTitulo">Todos os Cursos</string>
+</resources>
